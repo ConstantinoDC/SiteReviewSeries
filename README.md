@@ -5,7 +5,7 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
- <a href="#autor">Autor</a>
+ <a href="#Autores">Autores</a>
 </p>
 
 <h4 align="center"> 
@@ -20,27 +20,56 @@
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/), o qual foi utilizado para fazer esse projeto.
+Antes de começar, você vai precisar ter instalado em sua máquina o
+[VSCode](https://code.visualstudio.com/), o qual foi utilizado para fazer esse projeto.
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando o Back End
 
 ```bash
-# Clone este repositório
-$ git clone <https://github.com/ConstantinoDC/SiteReviewSeries>
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd SiteReviewSeries
-
-# Vá para a pasta server
-$ cd server
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# Baixe o arquivo
+# Abra o Visual Studio Code
+# Clique em "File"
+# Em seguida, clique em "Open Folder"
+# Selecione o arquivo do projeto
 ```
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- HTML
+- CSS
+- JavaScript
+
+### Autores
+
+<p align="center">
+ <a>Diego Constantino</a> •
+ <a>Felipe Gabriel Silva</a> • 
+ <a>Daniel Vilela</a> • 
+ <a>Maria Clara Cunha</a>
+</p>
+
+### Licensa
+
+MIT License
+
+Copyright (c) <2020> Diego
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
